@@ -23,3 +23,8 @@ function getRandom(min, max) {
   return Math.floor(Math.random() * (max - min) + min);
 }
 ```
+
+## Education
+* ***2018 - 2022*** ([Minsk Trade College](https://bseumtc.by/))
+* ***2021 - now*** ([Front End Developer course at TeachMeSkills school](https://teachmeskills.by/kursy-programmirovaniya/frontend-html-css-javascript-minsk))
+* ***2022 - now*** ([RS School JS / FRONT-END (RU)](https://rs.school/js/))
