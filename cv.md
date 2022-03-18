@@ -16,3 +16,10 @@
 * ***GitHub*** 
 * ***JavaScript*** 
 * ***Figma***
+## My code
+
+```
+function getRandom(min, max) {
+  return Math.floor(Math.random() * (max - min) + min);
+}
+```
