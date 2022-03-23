@@ -107,3 +107,9 @@ a {
 .info__languages li {
     margin-bottom: 5px;
 }
+
+@media (max-width: 940px) {
+    .info__code {
+		display: none;
+	}
+}
